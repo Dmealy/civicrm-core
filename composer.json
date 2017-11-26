@@ -54,7 +54,7 @@
     "pear/Auth_SASL": "1.1.0",
     "pear/Net_SMTP": "1.6.*",
     "pear/Net_socket": "1.0.*",
-    "civicrm/civicrm-packages": "~4.7"
+    "civicrm/civicrm-packages": "master"
   },
   "repositories": [
     {
@@ -69,7 +69,7 @@
        "type": "package",
         "package": {
             "name": "civicrm/civicrm-packages",
-            "version": "~4.7",
+            "version": "master",
             "source": {
                 "url": "https://github.com/civicrm/civicrm-packages",
                 "type": "git",
